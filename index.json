@@ -1,6 +1,13 @@
 {
-    "version": "1.0",
-    "author": "Luretmo19",
-    "description": "Base de datos personal Cajas 3D Pro",
-    "games": []
+  "version": "1.0",
+  "author": "Luretmo19",
+  "description": "Base de datos personal Cajas 3D Pro",
+  "games": [
+    {
+      "id": "anime_land_1781146758503",
+      "name": "Anime Land",
+      "console": "Casio Loppy",
+      "year": "1995"
+    }
+  ]
 }
