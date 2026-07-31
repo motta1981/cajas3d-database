@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "console": "caja_wii_consola",
+    "bgType": "solid",
+    "bgColor": "#151313",
+    "bgColor2": "#16213e",
+    "showFloor": false,
+    "shadowIntensity": "0.5",
+    "showGrunge": false,
+    "grungeIntensity": "0.1",
+    "lightIntensityMain": "2",
+    "lightIntensityFill": "2.1",
+    "lightIntensityRim": "0",
+    "lightIntensityBottom": "2.3",
+    "lightColorMain": "#000000",
+    "selectedBox": 0,
+    "camera": {
+      "pos": {
+        "x": -13.923979495618084,
+        "y": 1.8907728632842438,
+        "z": 29.228749947552345
+      },
+      "target": {
+        "x": -5.526556283729681,
+        "y": 1.6810618368010162,
+        "z": 20.33073151640586
+      }
+    }
+  },
+  "boxes": [
+    {
+      "name": "Caja 1",
+      "console": "caja_wii_consola",
+      "position": [
+        -5.526556283729681,
+        -1.4439381631989838,
+        20.33073151640586
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "color": "#000000",
+      "materialProps": {
+        "roughness": 0.1,
+        "metalness": 0,
+        "clearcoat": 0.1,
+        "clearcoatRoughness": 0.35
+      },
+      "sources": {
+        "front": null,
+        "spine": null,
+        "back": null
+      },
+      "stickers": {}
+    }
+  ]
+}
